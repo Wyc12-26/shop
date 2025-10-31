@@ -8,4 +8,5 @@ public interface CategoryMapper {
     int update(Category category);
     Category findById(String categoryId);//根据id获取分类信息
     int deleteById(String categoryId);//根据id删除分类信息
+    heelo
 }
